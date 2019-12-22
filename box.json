@@ -1,0 +1,57 @@
+{
+    "author":"Matt Gifford (matt@monkehworks.com)",
+    "bugs":"https://github.com/coldfumonkeh/PicPurify/issues",
+    "changelog":"",
+    "contributors":[],
+    "dependencies":{},
+    "description":"A CFML wrapper to interact with the PicPurify content moderation API",
+    "devDependencies":{},
+    "documentation":"",
+    "homepage":"https://github.com/coldfumonkeh/PicPurify",
+    "ignore":[
+        "**/.*",
+        "test",
+        "tests"
+    ],
+    "installPaths":{},
+    "instructions":"",
+    "keywords":["API","detection","content","moderation","image","video"],
+    "license":[
+        {
+            "type":"",
+            "URL":""
+        }
+    ],
+    "location":"",
+    "name":"PicPurify",
+    "private":false,
+    "projectURL":"https://github.com/coldfumonkeh/PicPurify",
+    "repository":{
+        "type":"",
+        "URL":"https://github.com/coldfumonkeh/PicPurify"
+    },
+    "scripts":{},
+    "shortDescription":"A CFML wrapper to interact with the PicPurify content moderation API",
+    "slug":"picpurify",
+    "testbox":{
+        "bundles":"",
+        "directory":"tests.specs",
+        "labels":"",
+        "options":{},
+        "recurse":true,
+        "reporter":"",
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "testBundles":"",
+        "testSpecs":"",
+        "testSuites":"",
+        "verbose":true,
+        "watchDelay":500,
+        "watchPaths":"**.cfc"
+    },
+    "type":"module",
+    "version":"1.0.0"
+}
