@@ -6,7 +6,7 @@
     "dependencies":{},
     "description":"A CFML wrapper to interact with the PicPurify content moderation API",
     "devDependencies":{},
-    "documentation":"",
+    "documentation":"https://github.com/coldfumonkeh/PicPurify",
     "homepage":"https://github.com/coldfumonkeh/PicPurify",
     "ignore":[
         "**/.*",
@@ -27,7 +27,7 @@
     "private":false,
     "projectURL":"https://github.com/coldfumonkeh/PicPurify",
     "repository":{
-        "type":"",
+        "type":"git",
         "URL":"https://github.com/coldfumonkeh/PicPurify"
     },
     "scripts":{},
