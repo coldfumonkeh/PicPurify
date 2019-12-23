@@ -52,6 +52,6 @@
         "watchDelay":500,
         "watchPaths":"**.cfc"
     },
-    "type":"module",
+    "type":"modules",
     "version":"1.0.0"
 }
