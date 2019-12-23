@@ -31,7 +31,7 @@ property name="picpurify" inject="picpurify@picpurify";
 
 Instantiate the component:
 ```js
-picpurify = new picpurify();
+picpurify = new picpurify( APIKey = '<YOUR_API_KEY_GOES_HERE>' );
 ```
 ### picpurify.analysePicture()
 
