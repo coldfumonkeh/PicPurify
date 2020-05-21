@@ -30,7 +30,11 @@
         "type":"git",
         "URL":"https://github.com/coldfumonkeh/PicPurify"
     },
-    "scripts":{},
+    "scripts":{
+        "postVersion":"package set location='coldfumonkeh/PicPurify#v`package version`'",
+        "onRelease":"publish",
+        "postPublish":"!git push --follow-tags"
+    },
     "shortDescription":"A CFML wrapper to interact with the PicPurify content moderation API",
     "slug":"picpurify",
     "testbox":{
