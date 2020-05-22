@@ -15,14 +15,21 @@
     ],
     "installPaths":{},
     "instructions":"",
-    "keywords":["API","detection","content","moderation","image","video"],
+    "keywords":[
+        "API",
+        "detection",
+        "content",
+        "moderation",
+        "image",
+        "video"
+    ],
     "license":[
         {
             "type":"",
             "URL":""
         }
     ],
-    "location":"",
+    "location":"coldfumonkeh/PicPurify#v1.0.1",
     "name":"PicPurify",
     "private":false,
     "projectURL":"https://github.com/coldfumonkeh/PicPurify",
@@ -57,5 +64,5 @@
         "watchPaths":"**.cfc"
     },
     "type":"modules",
-    "version":"1.0.0"
+    "version":"1.0.1"
 }
